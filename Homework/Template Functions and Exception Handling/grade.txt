@@ -1,0 +1,4 @@
+19 out of 20
+
+Logging Error:
+    missing end of function log when exception is thrown -1

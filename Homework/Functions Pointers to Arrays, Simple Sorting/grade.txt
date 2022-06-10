@@ -1,0 +1,7 @@
+16 out of 20
+
+functions.h
+    SortDescending():
+        used index opertation ([]). Needed to use indirect operation(*). -2
+    SmallestInArray():
+        not returning correct value. -2
