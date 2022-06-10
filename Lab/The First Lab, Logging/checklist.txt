@@ -1,0 +1,31 @@
+
+Grade Checklist
+
+is the first line of all your functions a line to log the start of the function (like the example)  yes or no?
+
+
+
+before the end or ever return statement do you log the end of the function?  yes or no
+
+
+when you compile there are no warnings  yes or no
+
+did you complete both functions you were supposed to complete? yes or no
+
+did you call each function 4 times from your main?  yes or no
+
+did you use a test after calling each function to test that they returned the correct value? yes or no
+
+
+your output to the console matches that of the runable example? yes or no
+
+
+your output to the logfile matches that of the runable example? yes or no
+
+
+are you going to exit your terminal by typing exit and not just close the window? yes or no
+
+
+
+
+

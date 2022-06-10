@@ -1,0 +1,195 @@
+2021-12-14 14:35:52,382 INFO [default] Start BST<T>::BST() [with T = int]
+
+2021-12-14 14:35:52,382 INFO [default] End BST<T>::BST() [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Option ichosen
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+ 
+2021-12-14 14:36:10,754 INFO [default] Option ichosen
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+
+2021-12-14 14:36:10,754 INFO [default] Option ichosen
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+
+2021-12-14 14:36:10,754 INFO [default] Option ichosen
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+
+2021-12-14 14:36:10,754 INFO [default] Option ichosen
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+2021-12-14 14:36:10,754 INFO [default] End bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Returning: true
+
+2021-12-14 14:36:10,754 INFO [default] Option ichosen
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,754 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Returning: true
+2021-12-14 14:36:10,755 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Returning: true
+2021-12-14 14:36:10,755 INFO [default] End bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Returning: true
+
+2021-12-14 14:36:10,755 INFO [default] Option ichosen
+
+2021-12-14 14:36:10,755 INFO [default] Start bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Start bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Returning: true
+2021-12-14 14:36:10,755 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Returning: true
+2021-12-14 14:36:10,755 INFO [default] End bool BST<T>::insertSubtree(BST<T>::TreeNode*, T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Returning: true
+2021-12-14 14:36:10,755 INFO [default] End bool BST<T>::insert(T) [with T = int]
+
+2021-12-14 14:36:10,755 INFO [default] Returning: true
+
+2021-12-14 14:36:16,151 INFO [default] Option ychosen
+
+2021-12-14 14:36:16,152 INFO [default] Start void BST<T>::preprint() [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] Start void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] Start void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] Start void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] End void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] End void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] Start void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] Start void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] Start void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] End void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] End void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] Start void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] End void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] End void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] End void BST<T>::preprintSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:36:16,152 INFO [default] End void BST<T>::preprint() [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] Option xchosen
+
+2021-12-14 14:41:07,128 INFO [default] Start BST<T>::~BST() [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] Start void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] calling deallocateSubtree  on the left node
+
+2021-12-14 14:41:07,128 INFO [default] Start void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] calling deallocateSubtree  on the left node
+
+2021-12-14 14:41:07,128 INFO [default] Start void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] End void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] End void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] calling deallocateSubtree  on the right node
+
+2021-12-14 14:41:07,128 INFO [default] Start void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] calling deallocateSubtree  on the left node
+
+2021-12-14 14:41:07,128 INFO [default] Start void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] calling deallocateSubtree  on the right node
+
+2021-12-14 14:41:07,128 INFO [default] Start void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] End void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] End void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] calling deallocateSubtree  on the right node
+
+2021-12-14 14:41:07,128 INFO [default] Start void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] End void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] End void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] End void BST<T>::deallocateSubtree(BST<T>::TreeNode*) [with T = int]
+
+2021-12-14 14:41:07,128 INFO [default] End BST<T>::~BST() [with T = int]
+
